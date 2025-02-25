@@ -2,7 +2,7 @@
 
 need to unzip `useful data.zip` to the main scope
 
-ipynb worc with files:
+ipynb works with files:
 
 error.txt
 
