@@ -1,6 +1,6 @@
 # NLP_A1
 
-need to unzip `useful_data.zip` to the main scope
+need to unzip `useful data.zip` to the main scope
 
 ipynb worc with files:
 
