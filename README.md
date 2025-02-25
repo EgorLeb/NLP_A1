@@ -11,3 +11,5 @@ True_spases.txt
 bigrams (2).txt
 
 fivegrams (2).txt
+
+big.txt
